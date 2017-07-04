@@ -1,0 +1,618 @@
+*.csproj
+*.meta
+*.sln
+*.userprefs
+*.asset
+game/Assets/AllStarCharacterLibrary/Scripts/SkinnedMeshCombiner.cs
+game/Assets/AllStarCharacterLibrary/Scripts/RootMotionOff.cs
+game/Assets/AllStarCharacterLibrary/Scripts/Outfitter.cs
+game/Assets/AllStarCharacterLibrary/Scripts/MouseOrbit.cs
+game/Assets/AllStarCharacterLibrary/Scripts/Editor/TurnOffRenderers.cs
+game/Assets/AllStarCharacterLibrary/Scripts/CharacterDemoController.cs
+game/Assets/AllStarCharacterLibrary/Scripts/CamTarget.cs
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/FemaleDemo.controller
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@UNWalkF.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@UNPain.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@UNIdle.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@UNDeathC.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@UNDeathB.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@UNDeathA.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@UNCombatRunF.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@UNCombatIdle.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@UNAttack.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@SpearSwipe.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@SpearRunF.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@SpearPain.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@SpearIdle.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@SpearDeathC.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@SpearDeathB.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@SpearDeathA.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@SpearCombatRunF.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@SpearCombatIdle.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@SSWalkF.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@SSPain.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@SSIdle.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@SSDeathC.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@SSDeathB.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@SSDeathA.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@SSCombatRunF.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@SSCombatIdle.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@SSAttack.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@RifleWalkF.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@RiflePain.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@RifleIdle.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@RifleDeathC.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@RifleDeathB.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@RifleDeathA.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@RifleCombatRunF.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@RifleCombatIdle.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@RifleAttack.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@PistolWalkF.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@PistolPain.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@PistolIdleB.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@PistolIdle.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@PistolDeathC.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@PistolDeathB.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@PistolDeathA.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@PistolCombatRunF.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@PistolCombatIdle.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@PistolAttack.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@DualPain.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@DualIdle.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@DualDeathC.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@DualDeathB.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@DualDeathA.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@DualCombatRunF.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@DualCombatIdle.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@DualAttack.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@BowWalkF.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@BowRunF.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@BowPain.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@BowIdle.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@BowDeathC.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@BowDeathB.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@BowDeathA.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@BowCombatIdle.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@BowAttack.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@2HWalkF.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@2HPain.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@2HIdle.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@2HDeathC.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@2HDeathB.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@2HDeathA.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@2HCombatRunF.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@2HCombatIdle.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@2HAttack.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@1HWalkF.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@1HPain.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@1HIdle.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@1HDeathC.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@1HDeathB.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@1HDeathA.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@1HCombatRunF.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@1HCombatIdle.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale@1HAttack.fbx
+game/Assets/AllStarCharacterLibrary/RootAnimsFemale/BaseFemale.fbx
+game/Assets/AllStarCharacterLibrary/Materials/spacerifle.tga
+game/Assets/AllStarCharacterLibrary/Materials/spacerifle.mat
+game/Assets/AllStarCharacterLibrary/Materials/SexySidekicks.mat
+game/Assets/AllStarCharacterLibrary/Materials/SexySidekicks.com.png
+game/Assets/AllStarCharacterLibrary/Materials/B06.png
+game/Assets/AllStarCharacterLibrary/Materials/B06.mat
+game/Assets/AllStarCharacterLibrary/Materials/B03.png
+game/Assets/AllStarCharacterLibrary/Materials/B03.mat
+game/Assets/AllStarCharacterLibrary/Materials/A06N.png
+game/Assets/AllStarCharacterLibrary/Materials/A06.png
+game/Assets/AllStarCharacterLibrary/Materials/A06.mat
+game/Assets/AllStarCharacterLibrary/Materials/A05N.png
+game/Assets/AllStarCharacterLibrary/Materials/A05.png
+game/Assets/AllStarCharacterLibrary/Materials/A05.mat
+game/Assets/AllStarCharacterLibrary/Materials/A04N.png
+game/Assets/AllStarCharacterLibrary/Materials/A04.png
+game/Assets/AllStarCharacterLibrary/Materials/A04.mat
+game/Assets/AllStarCharacterLibrary/Materials/A03_LOD.tga
+game/Assets/AllStarCharacterLibrary/Materials/A03_LOD.mat
+game/Assets/AllStarCharacterLibrary/Materials/A03N.png
+game/Assets/AllStarCharacterLibrary/Materials/A03.png
+game/Assets/AllStarCharacterLibrary/Materials/A03.mat
+game/Assets/AllStarCharacterLibrary/Materials/A01N.png
+game/Assets/AllStarCharacterLibrary/Materials/A01.png
+game/Assets/AllStarCharacterLibrary/Materials/A01.mat
+game/Assets/AllStarCharacterLibrary/AmazingAmazons/TestingA03.unity
+game/Assets/AllStarCharacterLibrary/AmazingAmazons/A03.prefab
+game/Assets/AllStarCharacterLibrary/AmazingAmazons/A03.FBX
+game/Assets/CustomizableSword_Free/readme.txt
+game/Assets/CustomizableSword_Free/Scripts/CharacterViewerRotate.js
+game/Assets/CustomizableSword_Free/Scene/Sword01_Premade.unity
+game/Assets/CustomizableSword_Free/Scene/Sword01_CustomMade.unity
+game/Assets/CustomizableSword_Free/Prefab/PreMade/Gladius.prefab
+game/Assets/CustomizableSword_Free/Prefab/Custom_Sword/Custom Sword.prefab
+game/Assets/CustomizableSword_Free/ImportedMesh_FBX/Textures/SwordSet_CLR_MonoChrome.psd
+game/Assets/CustomizableSword_Free/ImportedMesh_FBX/SwordSet_Free.fbx
+game/Assets/CustomizableSword_Free/ImportedMesh_FBX/Materials/SwordSet_CLR.mat
+game/Assets/Ground textures pack/Lava/preview.jpg
+game/Assets/Ground textures pack/Lava/normal.tga
+game/Assets/Ground textures pack/Lava/emissive.tga
+game/Assets/Ground textures pack/Lava/diffuse.tga
+game/Assets/Ground textures pack/Lava/Lava pattern.mat
+game/Assets/Ground textures pack/Ground 02/preview.jpg
+game/Assets/Ground textures pack/Ground 02/normal.tga
+game/Assets/Ground textures pack/Ground 02/diffuse.tga
+game/Assets/Ground textures pack/Ground 02/Ground pattern 02.mat
+game/Assets/Ground textures pack/Ground 01/preview.jpg
+game/Assets/Ground textures pack/Ground 01/normal.tga
+game/Assets/Ground textures pack/Ground 01/diffuse.tga
+game/Assets/Ground textures pack/Ground 01/Ground pattern 01.mat
+game/Assets/Ground textures pack/Ground & weeds/preview.jpg
+game/Assets/Ground textures pack/Ground & weeds/normal.tga
+game/Assets/Ground textures pack/Ground & weeds/diffuse.tga
+game/Assets/Ground textures pack/Ground & weeds/Ground & weeds.mat
+game/Assets/Ground textures pack/Ground & rocks 03/preview.jpg
+game/Assets/Ground textures pack/Ground & rocks 03/normal.tga
+game/Assets/Ground textures pack/Ground & rocks 03/diffuse.tga
+game/Assets/Ground textures pack/Ground & rocks 03/Ground & rocks pattern 03.mat
+game/Assets/Ground textures pack/Ground & rocks 02/preview.jpg
+game/Assets/Ground textures pack/Ground & rocks 02/normal.tga
+game/Assets/Ground textures pack/Ground & rocks 02/diffuse.tga
+game/Assets/Ground textures pack/Ground & rocks 02/Ground & rocks pattern 02.mat
+game/Assets/Ground textures pack/Ground & rocks 01/preview.jpg
+game/Assets/Ground textures pack/Ground & rocks 01/normal.tga
+game/Assets/Ground textures pack/Ground & rocks 01/diffuse.tga
+game/Assets/Ground textures pack/Ground & rocks 01/Ground & rocks pattern 01.mat
+game/Assets/Ground textures pack/Ground & moss/preview.jpg
+game/Assets/Ground textures pack/Ground & moss/normal.tga
+game/Assets/Ground textures pack/Ground & moss/diffuse.tga
+game/Assets/Ground textures pack/Ground & moss/Ground & moss pattern.mat
+game/Assets/Ground textures pack/Grass 06/preview.jpg
+game/Assets/Ground textures pack/Grass 06/normal.tga
+game/Assets/Ground textures pack/Grass 06/diffuse.tga
+game/Assets/Ground textures pack/Grass 06/Grass pattern 06.mat
+game/Assets/Ground textures pack/Grass 05/preview.jpg
+game/Assets/Ground textures pack/Grass 05/normal.tga
+game/Assets/Ground textures pack/Grass 05/diffuse.tga
+game/Assets/Ground textures pack/Grass 05/Grass pattern 05.mat
+game/Assets/Ground textures pack/Grass 04/preview.jpg
+game/Assets/Ground textures pack/Grass 04/normal.tga
+game/Assets/Ground textures pack/Grass 04/diffuse.tga
+game/Assets/Ground textures pack/Grass 04/Grass pattern 04.mat
+game/Assets/Ground textures pack/Grass 03/preview.jpg
+game/Assets/Ground textures pack/Grass 03/normal.tga
+game/Assets/Ground textures pack/Grass 03/diffuse.tga
+game/Assets/Ground textures pack/Grass 03/Grass pattern 03.mat
+game/Assets/Ground textures pack/Grass 02/preview.jpg
+game/Assets/Ground textures pack/Grass 02/normal.tga
+game/Assets/Ground textures pack/Grass 02/diffuse.tga
+game/Assets/Ground textures pack/Grass 02/Grass pattern 02.mat
+game/Assets/Ground textures pack/Grass 01/preview.jpg
+game/Assets/Ground textures pack/Grass 01/normal.tga
+game/Assets/Ground textures pack/Grass 01/diffuse.tga
+game/Assets/Ground textures pack/Grass 01/Grass pattern 01.mat
+game/Assets/Ground textures pack/Grass & rocks/preview.jpg
+game/Assets/Ground textures pack/Grass & rocks/normal.tga
+game/Assets/Ground textures pack/Grass & rocks/diffuse.tga
+game/Assets/Ground textures pack/Grass & rocks/Grass & rocks pattern.mat
+game/Assets/Ground textures pack/Grass & dead leafs 02/preview.jpg
+game/Assets/Ground textures pack/Grass & dead leafs 02/normal.tga
+game/Assets/Ground textures pack/Grass & dead leafs 02/diffuse.tga
+game/Assets/Ground textures pack/Grass & dead leafs 02/Grass & dead leafs pattern 02.mat
+game/Assets/Ground textures pack/Grass & dead leafs 01/preview.jpg
+game/Assets/Ground textures pack/Grass & dead leafs 01/normal.tga
+game/Assets/Ground textures pack/Grass & dead leafs 01/diffuse.tga
+game/Assets/Ground textures pack/Grass & dead leafs 01/Grass & dead leafs pattern 01.mat
+game/Assets/Ground textures pack/Dry ground/preview.jpg
+game/Assets/Ground textures pack/Dry ground/normal.tga
+game/Assets/Ground textures pack/Dry ground/diffuse.tga
+game/Assets/Ground textures pack/Dry ground/Dry ground pattern.mat
+game/Assets/Nature_Volume_1/leaf/leaf83_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf82_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf81_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf80_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf79_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf78_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf77_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf76_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf75_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf74_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf73_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf73.mat
+game/Assets/Nature_Volume_1/leaf/leaf72_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf71_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf70_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf69_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf68_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf67_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf66_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf65_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf64_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf63_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf62_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf61_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf60_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf59_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf58_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf57_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf56_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf55_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf54_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf53_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf52_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf51_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf50_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf49_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf48_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf47_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf46_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf45_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf44_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf43_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf42_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf41_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf41.mat
+game/Assets/Nature_Volume_1/leaf/leaf40_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf39_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf39.mat
+game/Assets/Nature_Volume_1/leaf/leaf38_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf37_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf36_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf35_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf34_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf33_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf32_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf31_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf30_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf29_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf28_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf28.mat
+game/Assets/Nature_Volume_1/leaf/leaf27_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf26_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf25_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf24_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf21_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf20_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf19_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf18_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf15_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf14_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf13_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf12_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf09_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf08_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf07_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf06_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf05_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf04_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf03_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf02_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf01_norm.jpg
+game/Assets/Nature_Volume_1/leaf/leaf00_norm.jpg
+game/Assets/Nature_Volume_1/leaf/Leaf83.png
+game/Assets/Nature_Volume_1/leaf/Leaf82.png
+game/Assets/Nature_Volume_1/leaf/Leaf81.png
+game/Assets/Nature_Volume_1/leaf/Leaf80.png
+game/Assets/Nature_Volume_1/leaf/Leaf79.png
+game/Assets/Nature_Volume_1/leaf/Leaf78.png
+game/Assets/Nature_Volume_1/leaf/Leaf77.png
+game/Assets/Nature_Volume_1/leaf/Leaf76.png
+game/Assets/Nature_Volume_1/leaf/Leaf75.png
+game/Assets/Nature_Volume_1/leaf/Leaf74.png
+game/Assets/Nature_Volume_1/leaf/Leaf73.png
+game/Assets/Nature_Volume_1/leaf/Leaf72.png
+game/Assets/Nature_Volume_1/leaf/Leaf71.png
+game/Assets/Nature_Volume_1/leaf/Leaf70.png
+game/Assets/Nature_Volume_1/leaf/Leaf69.png
+game/Assets/Nature_Volume_1/leaf/Leaf68.png
+game/Assets/Nature_Volume_1/leaf/Leaf67.png
+game/Assets/Nature_Volume_1/leaf/Leaf66.png
+game/Assets/Nature_Volume_1/leaf/Leaf65.png
+game/Assets/Nature_Volume_1/leaf/Leaf64.png
+game/Assets/Nature_Volume_1/leaf/Leaf63.png
+game/Assets/Nature_Volume_1/leaf/Leaf62.png
+game/Assets/Nature_Volume_1/leaf/Leaf61.png
+game/Assets/Nature_Volume_1/leaf/Leaf60.png
+game/Assets/Nature_Volume_1/leaf/Leaf59.png
+game/Assets/Nature_Volume_1/leaf/Leaf58.png
+game/Assets/Nature_Volume_1/leaf/Leaf57.png
+game/Assets/Nature_Volume_1/leaf/Leaf56.png
+game/Assets/Nature_Volume_1/leaf/Leaf55.png
+game/Assets/Nature_Volume_1/leaf/Leaf54.png
+game/Assets/Nature_Volume_1/leaf/Leaf53.png
+game/Assets/Nature_Volume_1/leaf/Leaf52.png
+game/Assets/Nature_Volume_1/leaf/Leaf51.png
+game/Assets/Nature_Volume_1/leaf/Leaf50.png
+game/Assets/Nature_Volume_1/leaf/Leaf49.png
+game/Assets/Nature_Volume_1/leaf/Leaf48.png
+game/Assets/Nature_Volume_1/leaf/Leaf47.png
+game/Assets/Nature_Volume_1/leaf/Leaf46.png
+game/Assets/Nature_Volume_1/leaf/Leaf45.png
+game/Assets/Nature_Volume_1/leaf/Leaf44.png
+game/Assets/Nature_Volume_1/leaf/Leaf43.png
+game/Assets/Nature_Volume_1/leaf/Leaf42.png
+game/Assets/Nature_Volume_1/leaf/Leaf41.png
+game/Assets/Nature_Volume_1/leaf/Leaf40.png
+game/Assets/Nature_Volume_1/leaf/Leaf39.png
+game/Assets/Nature_Volume_1/leaf/Leaf38.png
+game/Assets/Nature_Volume_1/leaf/Leaf37.png
+game/Assets/Nature_Volume_1/leaf/Leaf36.png
+game/Assets/Nature_Volume_1/leaf/Leaf35.png
+game/Assets/Nature_Volume_1/leaf/Leaf34.png
+game/Assets/Nature_Volume_1/leaf/Leaf33.png
+game/Assets/Nature_Volume_1/leaf/Leaf32.png
+game/Assets/Nature_Volume_1/leaf/Leaf31.png
+game/Assets/Nature_Volume_1/leaf/Leaf30.png
+game/Assets/Nature_Volume_1/leaf/Leaf29.png
+game/Assets/Nature_Volume_1/leaf/Leaf28.png
+game/Assets/Nature_Volume_1/leaf/Leaf27.png
+game/Assets/Nature_Volume_1/leaf/Leaf26.png
+game/Assets/Nature_Volume_1/leaf/Leaf25.png
+game/Assets/Nature_Volume_1/leaf/Leaf24.png
+game/Assets/Nature_Volume_1/leaf/Leaf21.png
+game/Assets/Nature_Volume_1/leaf/Leaf20.png
+game/Assets/Nature_Volume_1/leaf/Leaf19.png
+game/Assets/Nature_Volume_1/leaf/Leaf18.png
+game/Assets/Nature_Volume_1/leaf/Leaf15.png
+game/Assets/Nature_Volume_1/leaf/Leaf14.png
+game/Assets/Nature_Volume_1/leaf/Leaf13.png
+game/Assets/Nature_Volume_1/leaf/Leaf12.png
+game/Assets/Nature_Volume_1/leaf/Leaf09.png
+game/Assets/Nature_Volume_1/leaf/Leaf08.png
+game/Assets/Nature_Volume_1/leaf/Leaf07.png
+game/Assets/Nature_Volume_1/leaf/Leaf06.png
+game/Assets/Nature_Volume_1/leaf/Leaf05.png
+game/Assets/Nature_Volume_1/leaf/Leaf04.png
+game/Assets/Nature_Volume_1/leaf/Leaf03.png
+game/Assets/Nature_Volume_1/leaf/Leaf02.png
+game/Assets/Nature_Volume_1/leaf/Leaf01.png
+game/Assets/Nature_Volume_1/leaf/Leaf00.png
+game/Assets/Nature_Volume_1/Scene Example/Materials/bark.mat
+game/Assets/Nature_Volume_1/Scene Example/Materials/Leaf.mat
+game/Assets/Nature_Volume_1/Scene Example/Materials/Cyclo_BLanc.mat
+game/Assets/Nature_Volume_1/Scene Example/Materials/Branch.mat
+game/Assets/Nature_Volume_1/Scene Example/Cyclo.FBX
+game/Assets/Nature_Volume_1/Scene Example/Branch_Scene.unity
+game/Assets/Nature_Volume_1/Ground/ground05_norm.jpg
+game/Assets/Nature_Volume_1/Ground/ground05.png
+game/Assets/Nature_Volume_1/Ground/ground04_norm.jpg
+game/Assets/Nature_Volume_1/Ground/ground04.png
+game/Assets/Nature_Volume_1/Ground/ground03_norm.jpg
+game/Assets/Nature_Volume_1/Ground/ground03.png
+game/Assets/Nature_Volume_1/Ground/ground02_norm.jpg
+game/Assets/Nature_Volume_1/Ground/ground02.png
+game/Assets/Nature_Volume_1/Ground/ground01_norm.jpg
+game/Assets/Nature_Volume_1/Ground/ground01.png
+game/Assets/Nature_Volume_1/Flower/flower09_norm.jpg
+game/Assets/Nature_Volume_1/Flower/flower09.png
+game/Assets/Nature_Volume_1/Flower/flower08_norm.jpg
+game/Assets/Nature_Volume_1/Flower/flower08.png
+game/Assets/Nature_Volume_1/Flower/flower07_norm.jpg
+game/Assets/Nature_Volume_1/Flower/flower07.png
+game/Assets/Nature_Volume_1/Flower/flower06_norm.jpg
+game/Assets/Nature_Volume_1/Flower/flower06.png
+game/Assets/Nature_Volume_1/Flower/flower05_norm.jpg
+game/Assets/Nature_Volume_1/Flower/flower05.png
+game/Assets/Nature_Volume_1/Flower/flower04_norm.jpg
+game/Assets/Nature_Volume_1/Flower/flower04.png
+game/Assets/Nature_Volume_1/Flower/flower03_norm.jpg
+game/Assets/Nature_Volume_1/Flower/flower03.png
+game/Assets/Nature_Volume_1/Flower/flower02_norm.jpg
+game/Assets/Nature_Volume_1/Flower/flower02.png
+game/Assets/Nature_Volume_1/Flower/flower01_norm.jpg
+game/Assets/Nature_Volume_1/Flower/flower01.png
+game/Assets/Nature_Volume_1/Branch/branch10_norm.jpg
+game/Assets/Nature_Volume_1/Branch/branch10.png
+game/Assets/Nature_Volume_1/Branch/branch09_norm.jpg
+game/Assets/Nature_Volume_1/Branch/branch09.png
+game/Assets/Nature_Volume_1/Branch/branch08_norm.jpg
+game/Assets/Nature_Volume_1/Branch/branch08.png
+game/Assets/Nature_Volume_1/Branch/branch07_norm.jpg
+game/Assets/Nature_Volume_1/Branch/branch07.png
+game/Assets/Nature_Volume_1/Branch/branch06_norm.jpg
+game/Assets/Nature_Volume_1/Branch/branch06.png
+game/Assets/Nature_Volume_1/Branch/branch05_norm.jpg
+game/Assets/Nature_Volume_1/Branch/branch05.png
+game/Assets/Nature_Volume_1/Branch/branch04_norm.jpg
+game/Assets/Nature_Volume_1/Branch/branch04.png
+game/Assets/Nature_Volume_1/Branch/branch03_norm.jpg
+game/Assets/Nature_Volume_1/Branch/branch03.png
+game/Assets/Nature_Volume_1/Branch/branch02_norm.jpg
+game/Assets/Nature_Volume_1/Branch/branch02.png
+game/Assets/Nature_Volume_1/Branch/branch01_norm.jpg
+game/Assets/Nature_Volume_1/Branch/branch01.png
+game/Assets/Nature_Volume_1/Bark/bark22_norm.jpg
+game/Assets/Nature_Volume_1/Bark/bark22.png
+game/Assets/Nature_Volume_1/Bark/bark20_norm.jpg
+game/Assets/Nature_Volume_1/Bark/bark20.png
+game/Assets/Nature_Volume_1/Bark/bark19_norm.jpg
+game/Assets/Nature_Volume_1/Bark/bark19.png
+game/Assets/Nature_Volume_1/Bark/bark18_norm.jpg
+game/Assets/Nature_Volume_1/Bark/bark18.png
+game/Assets/Nature_Volume_1/Bark/bark17_norm.jpg
+game/Assets/Nature_Volume_1/Bark/bark17.png
+game/Assets/Nature_Volume_1/Bark/bark16_norm.jpg
+game/Assets/Nature_Volume_1/Bark/bark16.png
+game/Assets/Nature_Volume_1/Bark/bark16.mat
+game/Assets/Nature_Volume_1/Bark/bark15_norm.jpg
+game/Assets/Nature_Volume_1/Bark/bark15.png
+game/Assets/Nature_Volume_1/Bark/bark14_norm.jpg
+game/Assets/Nature_Volume_1/Bark/bark14.png
+game/Assets/Nature_Volume_1/Bark/bark13_norm.jpg
+game/Assets/Nature_Volume_1/Bark/bark13.png
+game/Assets/Nature_Volume_1/Bark/bark12_norm.jpg
+game/Assets/Nature_Volume_1/Bark/bark12.png
+game/Assets/Nature_Volume_1/Bark/bark11_norm.jpg
+game/Assets/Nature_Volume_1/Bark/bark11.png
+game/Assets/Nature_Volume_1/Bark/bark10_norm.jpg
+game/Assets/Nature_Volume_1/Bark/bark10.png
+game/Assets/Nature_Volume_1/Bark/bark09_norm.jpg
+game/Assets/Nature_Volume_1/Bark/bark09.png
+game/Assets/Nature_Volume_1/Bark/bark08_norm.jpg
+game/Assets/Nature_Volume_1/Bark/bark08.png
+game/Assets/Nature_Volume_1/Bark/bark07_norm.jpg
+game/Assets/Nature_Volume_1/Bark/bark07.png
+game/Assets/Nature_Volume_1/Bark/bark05_norm.jpg
+game/Assets/Nature_Volume_1/Bark/bark05.png
+game/Assets/Nature_Volume_1/Bark/bark04_norm.jpg
+game/Assets/Nature_Volume_1/Bark/bark04.png
+game/Assets/Nature_Volume_1/Bark/bark03_norm.jpg
+game/Assets/Nature_Volume_1/Bark/bark03.png
+game/Assets/Nature_Volume_1/Bark/bark02_norm.jpg
+game/Assets/Nature_Volume_1/Bark/bark02.png
+game/Assets/Nature_Volume_1/Bark/bark01_norm.jpg
+game/Assets/Nature_Volume_1/Bark/bark01.png
+game/Assets/Rocks Pack/Rock13/Rock13_B.prefab
+game/Assets/Rocks Pack/Rock13/Rock13_A.prefab
+game/Assets/Rocks Pack/Rock13/Resources/Stone13_nmp.png
+game/Assets/Rocks Pack/Rock13/Resources/Stone13_B.png
+game/Assets/Rocks Pack/Rock13/Resources/Stone13.png
+game/Assets/Rocks Pack/Rock13/Resources/Materials/Rock13_B.mat
+game/Assets/Rocks Pack/Rock13/Resources/Materials/Rock13_A.mat
+game/Assets/Rocks Pack/Rock12/Rock12_B.prefab
+game/Assets/Rocks Pack/Rock12/Rock12_A.prefab
+game/Assets/Rocks Pack/Rock12/Resources/Stone12_nmp.png
+game/Assets/Rocks Pack/Rock12/Resources/Stone12_B.png
+game/Assets/Rocks Pack/Rock12/Resources/Stone12.png
+game/Assets/Rocks Pack/Rock12/Resources/Materials/Rock12_B.mat
+game/Assets/Rocks Pack/Rock12/Resources/Materials/Rock12_A.mat
+game/Assets/Rocks Pack/Rock11/Rock11_B.prefab
+game/Assets/Rocks Pack/Rock11/Rock11_A.prefab
+game/Assets/Rocks Pack/Rock11/Resources/Stone11_nmp.png
+game/Assets/Rocks Pack/Rock11/Resources/Stone11_B.png
+game/Assets/Rocks Pack/Rock11/Resources/Stone11.png
+game/Assets/Rocks Pack/Rock11/Resources/Materials/Rock11_B.mat
+game/Assets/Rocks Pack/Rock11/Resources/Materials/Rock11_A.mat
+game/Assets/Rocks Pack/Rock10/Rock10_B.prefab
+game/Assets/Rocks Pack/Rock10/Rock10_A.prefab
+game/Assets/Rocks Pack/Rock10/Resources/Stone10_nmp.png
+game/Assets/Rocks Pack/Rock10/Resources/Stone10_B.png
+game/Assets/Rocks Pack/Rock10/Resources/Stone10.png
+game/Assets/Rocks Pack/Rock10/Resources/Materials/Rock10_B.mat
+game/Assets/Rocks Pack/Rock10/Resources/Materials/Rock10_A.mat
+game/Assets/Rocks Pack/Rock1/resources/TerrainAssets/SurfaceTextures/SandAlbedo.psd
+game/Assets/Rocks Pack/Rock1/resources/TerrainAssets/SurfaceTextures/MudRockyNormals.bmp
+game/Assets/Rocks Pack/Rock1/resources/TerrainAssets/SurfaceTextures/MudRockyAlbedoSpecular.bmp
+game/Assets/Rocks Pack/Rock1/resources/TerrainAssets/SurfaceTextures/GrassRockyAlbedo.psd
+game/Assets/Rocks Pack/Rock1/resources/TerrainAssets/SurfaceTextures/GrassHillAlbedo.psd
+game/Assets/Rocks Pack/Rock1/resources/TerrainAssets/SurfaceTextures/CliffAlbedoSpecular.psd
+game/Assets/Rocks Pack/Rock1/resources/TerrainAssets/BillboardTextures/GrassFrond02AlbedoAlpha.psd
+game/Assets/Rocks Pack/Rock1/resources/TerrainAssets/BillboardTextures/GrassFrond01AlbedoAlpha.psd
+game/Assets/Rocks Pack/Rock1/resources/Stone1_nmp.png
+game/Assets/Rocks Pack/Rock1/resources/Stone1_B.png
+game/Assets/Rocks Pack/Rock1/resources/Stone1.png
+game/Assets/Rocks Pack/Rock1/resources/Materials/Rock1_B.mat
+game/Assets/Rocks Pack/Rock1/resources/Materials/Rock1_A.mat
+game/Assets/Rocks Pack/Rock1/Rock1_B.prefab
+game/Assets/Rocks Pack/Rock1/Rock1_A.prefab
+game/Library/ShaderCache.db
+game/Library/ScriptMapper
+game/Library/LibraryFormatVersion.txt
+game/Library/LastSceneManagerSetup.txt
+game/Library/LastBuild.buildreport
+game/Library/CurrentLayout.dwlt
+game/Library/BuildPlayer.prefs
+game/Library/AssetVersioning.db
+game/Library/AssetServerCacheV3
+game/Library/AssetImportState
+game/Library/AnnotationManager
+game/Library/metadata/0c/0c5fa332187126b49a1e9939b653c735.info
+game/Library/metadata/0c/0c5fa332187126b49a1e9939b653c735
+game/Library/metadata/0c/0c3232df383d7984ab0e87bf7c42aadb.info
+game/Library/metadata/0c/0c3232df383d7984ab0e87bf7c42aadb
+game/Library/metadata/0b/0bb21cebdeb7f9440aa300b4340cf453.info
+game/Library/metadata/0b/0bb21cebdeb7f9440aa300b4340cf453
+game/Library/metadata/0b/0b62210ca65cd2344a7f8bb7b37b2a4b.info
+game/Library/metadata/0b/0b62210ca65cd2344a7f8bb7b37b2a4b
+game/Library/metadata/0b/0b50dd2bfb1bc5d49a97c23f9a3858f7.info
+game/Library/metadata/0b/0b50dd2bfb1bc5d49a97c23f9a3858f7
+game/Library/metadata/0a/0afa2b8e2a989ae4cbb6738845fc5404.info
+game/Library/metadata/0a/0afa2b8e2a989ae4cbb6738845fc5404
+game/Library/metadata/0a/0ad1a174478a65d4ebc5133805ffc90b.info
+game/Library/metadata/0a/0ad1a174478a65d4ebc5133805ffc90b
+game/Library/metadata/09/099e57ccaf1d2554286886e5769b8907.info
+game/Library/metadata/09/099e57ccaf1d2554286886e5769b8907
+game/Library/metadata/09/09867ef72428ea44586376a3fd025a49.info
+game/Library/metadata/09/09867ef72428ea44586376a3fd025a49
+game/Library/metadata/09/0909f8b0896b62843898b1d23dca9f3a.info
+game/Library/metadata/09/0909f8b0896b62843898b1d23dca9f3a
+game/Library/metadata/07/07c5963e664beeb41ad20b1a1a31ff3b.info
+game/Library/metadata/07/07c5963e664beeb41ad20b1a1a31ff3b
+game/Library/metadata/07/07ad7ea2a2631d84ba022f92eea71585.info
+game/Library/metadata/07/07ad7ea2a2631d84ba022f92eea71585
+game/Library/metadata/06/06cd075a9510d654ab313cd1f991d73b.info
+game/Library/metadata/06/06cd075a9510d654ab313cd1f991d73b
+game/Library/metadata/06/0671d3afc35cdb543861789aaa53b0f8.info
+game/Library/metadata/06/0671d3afc35cdb543861789aaa53b0f8
+game/Library/metadata/06/064995c1a93a49943a958c776e9e913e.info
+game/Library/metadata/06/064995c1a93a49943a958c776e9e913e
+game/Library/metadata/06/0635dc171ad13e24a8b646b34dd50286.info
+game/Library/metadata/06/0635dc171ad13e24a8b646b34dd50286
+game/Library/metadata/05/05c85066bcea3034491ca88561608dbf.info
+game/Library/metadata/05/05c85066bcea3034491ca88561608dbf
+game/Library/metadata/05/05af8d51b397ab2468845799b8182f8a.info
+game/Library/metadata/05/05af8d51b397ab2468845799b8182f8a
+game/Library/metadata/05/059cceb0ba6e50741bfe6ec2c755d5f4.info
+game/Library/metadata/05/059cceb0ba6e50741bfe6ec2c755d5f4
+game/Library/metadata/05/0536c370d707ccb409022b0772f1187e.info
+game/Library/metadata/05/0536c370d707ccb409022b0772f1187e
+game/Library/metadata/05/05350543c701ea048824d7659afa47c9.info
+game/Library/metadata/05/05350543c701ea048824d7659afa47c9
+game/Library/metadata/05/0502ee2ad2a7a1d49879691b74edaf5d.info
+game/Library/metadata/05/0502ee2ad2a7a1d49879691b74edaf5d
+game/Library/metadata/04/0487d82c709605841a2b5c43afd35f81.info
+game/Library/metadata/04/0487d82c709605841a2b5c43afd35f81
+game/Library/metadata/04/0486e40ac32da9240a3393a828716065.info
+game/Library/metadata/04/0486e40ac32da9240a3393a828716065
+game/Library/metadata/04/04222c71f59e6b045a768ba940e85793.info
+game/Library/metadata/04/04222c71f59e6b045a768ba940e85793
+game/Library/metadata/03/03edd0bdd91860140997c21ebf58754b.info
+game/Library/metadata/03/03edd0bdd91860140997c21ebf58754b
+game/Library/metadata/03/03c0082ab0e737848917749b08f039c8.info
+game/Library/metadata/03/03c0082ab0e737848917749b08f039c8
+game/Library/metadata/02/026192b4ef5cb4e4e848bef3bce780d7.info
+game/Library/metadata/02/026192b4ef5cb4e4e848bef3bce780d7
+game/Library/metadata/02/023e18c83e08fe848a850693dc1cf60a.info
+game/Library/metadata/02/023e18c83e08fe848a850693dc1cf60a
+game/Library/metadata/02/02320963fc452984a9dd3e0d47dc32b4.info
+game/Library/metadata/02/02320963fc452984a9dd3e0d47dc32b4
+game/Library/metadata/02/020b997e4fa23c74297e208cd649319c.info
+game/Library/metadata/02/020b997e4fa23c74297e208cd649319c
+game/Library/metadata/01/017a8c8877e1e39448f925e9b9365c04.info
+game/Library/metadata/01/017a8c8877e1e39448f925e9b9365c04
+game/Library/metadata/00/00848df80e735ea4dab6c34a72685291.info
+game/Library/metadata/00/00848df80e735ea4dab6c34a72685291
+game/Library/metadata/00/0000000000000000c000000000000000.info
+game/Library/metadata/00/0000000000000000c000000000000000
+game/Library/metadata/00/0000000000000000b000000000000000.info
+game/Library/metadata/00/0000000000000000b000000000000000
+game/Library/metadata/00/0000000000000000a100000000000000.info
+game/Library/metadata/00/0000000000000000a100000000000000
+game/Library/metadata/00/0000000000000000a000000000000000.info
+game/Library/metadata/00/0000000000000000a000000000000000
+game/Library/metadata/00/00000000000000009000000000000000.info
+game/Library/metadata/00/00000000000000009000000000000000
+game/Library/metadata/00/00000000000000008000000000000000.info
+game/Library/metadata/00/00000000000000008000000000000000
+game/Library/metadata/00/00000000000000007100000000000000.info
+game/Library/metadata/00/00000000000000007100000000000000
+game/Library/metadata/00/00000000000000007000000000000000.info
+game/Library/metadata/00/00000000000000007000000000000000
+game/Library/metadata/00/00000000000000006100000000000000.info
+game/Library/metadata/00/00000000000000006100000000000000
+game/Library/metadata/00/00000000000000006000000000000000.info
+game/Library/metadata/00/00000000000000006000000000000000
+game/Library/metadata/00/00000000000000005100000000000000.info
+game/Library/metadata/00/00000000000000005100000000000000
+game/Library/metadata/00/00000000000000005000000000000000.info
+game/Library/metadata/00/00000000000000005000000000000000
+game/Library/metadata/00/00000000000000004100000000000000.info
+game/Library/metadata/00/00000000000000004100000000000000
+game/Library/metadata/00/00000000000000004000000000000000.info
+game/Library/metadata/00/00000000000000004000000000000000
+game/Library/metadata/00/00000000000000003000000000000000.info
+game/Library/metadata/00/00000000000000003000000000000000
+game/Library/metadata/00/00000000000000002000000000000000.info
+game/Library/metadata/00/00000000000000002000000000000000
+game/Library/metadata/00/00000000000000001000000000000000.info
+game/Library/metadata/00/00000000000000001000000000000000
+game/Library/expandedItems
+game/Library/assetDatabase3
+game/Library/
+Subterranean/Library/
